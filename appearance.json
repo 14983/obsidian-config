@@ -1,0 +1,12 @@
+{
+  "accentColor": "#ef6b6b",
+  "theme": "moonstone",
+  "textFontFamily": "Consolas,华文中宋",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "main",
+    "tableNoBorder"
+  ],
+  "nativeMenus": true,
+  "interfaceFontFamily": "Courier New"
+}

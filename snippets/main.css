@@ -1,0 +1,42 @@
+/* 功能：
+ * 大标题居中
+ * 设置字体
+ * 图片居中、调整大小
+ * 表格居中
+ *
+ * 有些效果在进入预览模式时和导出时才会生效
+ */
+
+/* h1居中*/
+h1 {
+  text-align: center;
+}
+
+/* 设置正文字体，可Ctrl + , 在Appearance设置
+body {
+  font-family: STZhongsong;
+}
+*/
+
+/* 设置字体 */
+b, strong {
+  font-family: SimHei; /* 粗体 -> 黑体 */
+}
+i, em {
+  font-family: KaiTi; /* 斜体 -> 楷体 */
+  font-style: normal;
+}
+
+/* 图片居中 */
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 80% !important;
+}
+
+/* 表格属性，配合Advanced Tables插件 */
+table {
+  margin: 0 auto;
+  width: 80%;
+  border: 2px solid black;
+}
