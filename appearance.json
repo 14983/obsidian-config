@@ -1,12 +1,12 @@
 {
-  "accentColor": "#ef6b6b",
+  "accentColor": "#ff8a8a",
   "theme": "moonstone",
-  "textFontFamily": "Consolas,华文中宋",
-  "baseFontSize": 21,
+  "textFontFamily": "Times New Roman,SimSun",
+  "baseFontSize": 30,
   "enabledCssSnippets": [
-    "main",
-    "tableNoBorder"
+    "main"
   ],
-  "nativeMenus": true,
-  "interfaceFontFamily": "Courier New"
+  "nativeMenus": false,
+  "interfaceFontFamily": "Noto Sans CJK SC",
+  "monospaceFontFamily": "Consolas"
 }

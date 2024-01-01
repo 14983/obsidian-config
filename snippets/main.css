@@ -12,26 +12,36 @@ h1 {
   text-align: center;
 }
 
-/* 设置正文字体，可Ctrl + , 在Appearance设置
+h2 {
+  font-family: SimHei !important;
+}
+h3 {
+  font-family: KaiTi !important;
+}
+h4 {
+  font-family: KaiTi !important;
+}
+
+/*
 body {
   font-family: STZhongsong;
-}
-*/
+}*/
 
-/* 设置字体 */
+
 b, strong {
-  font-family: SimHei; /* 粗体 -> 黑体 */
+  font-family: SimHei;
 }
 i, em {
-  font-family: KaiTi; /* 斜体 -> 楷体 */
+  font-family: KaiTi;
   font-style: normal;
 }
+
 
 /* 图片居中 */
 img {
   display: block;
   margin: 0 auto;
-  max-width: 80% !important;
+  width: 80% !important;
 }
 
 /* 表格属性，配合Advanced Tables插件 */

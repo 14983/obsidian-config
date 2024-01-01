@@ -4,7 +4,7 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "autoPairBrackets": false,
   "vimMode": false,
   "promptDelete": false,
@@ -15,5 +15,9 @@
     "downscalePercent": 60
   },
   "trashOption": "none",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "autoPairMarkdown": false,
+  "useTab": false,
+  "foldIndent": false,
+  "foldHeading": true
 }
